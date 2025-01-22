@@ -1,6 +1,6 @@
 {
   "name": "my-react-app",
-  "homepage": "https://Hamaudo.github.io/react-kiso4G",
+  "homepage": "https://hamaudo.github.io/react-kiso4G",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -10,7 +10,7 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "react": "^18.3.1",
